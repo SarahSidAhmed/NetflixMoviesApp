@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147818115211",
+    "project_id": "netflix-movies-app-b8bc2",
+    "storage_bucket": "netflix-movies-app-b8bc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147818115211:android:77239f8470f85faff4e48e",
+        "android_client_info": {
+          "package_name": "com.example.netflixmoviesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147818115211-8ib7tbq0u876674oo6epd7sqlsfcjrub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmSs5ClW0uZTOx2vcP_OokTIScFcIBTZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147818115211-8ib7tbq0u876674oo6epd7sqlsfcjrub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
