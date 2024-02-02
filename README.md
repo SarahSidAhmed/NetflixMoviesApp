@@ -1,4 +1,4 @@
-<img width="960" alt="Register Page" src="https://github.com/SarahSidAhmed/NetflixMoviesApp/assets/109920075/598302bd-146e-4acd-b3ba-0eaad6904b62"><h1>Netflix App with Android Studio</h1>
+<h1>Netflix App with Android Studio</h1>
 </br></br>
 A small replication of netflix app with a modification in UI UX. Credit goes to youtuber @UILover for the UI UX with small modification of my own.
 </br>
