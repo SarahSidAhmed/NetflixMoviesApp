@@ -1,4 +1,4 @@
-<h1>Netflix App with Android Studio</h1>
+<h1>🔗<b>Netflix App with Android Studio</b></h1>
 </br></br>
 A small replication of netflix app with a modification in UI UX. Credit goes to youtuber @UILover for the UI UX with small modification of my own.
 </br>
