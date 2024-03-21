@@ -1,9 +1,5 @@
 package com.example.netflixmoviesapp.Activity;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.recyclerview.widget.LinearLayoutManager;
-import androidx.recyclerview.widget.RecyclerView;
-
 import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.util.Log;
@@ -11,12 +7,15 @@ import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
+
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.StringRequest;
 import com.android.volley.toolbox.Volley;
 import com.example.netflixmoviesapp.Adapter.FilmListAdapter;
-import com.example.netflixmoviesapp.Domain.FilmItem;
 import com.example.netflixmoviesapp.Domain.ListFilm;
 import com.example.netflixmoviesapp.R;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;

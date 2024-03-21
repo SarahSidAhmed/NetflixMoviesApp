@@ -1,5 +1,6 @@
 package com.example.netflixmoviesapp.Adapter;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
 import android.icu.text.Transliterator;
@@ -34,6 +35,7 @@ public class FilmListAdapter extends RecyclerView.Adapter<FilmListAdapter.ViewHo
         return new ViewHolder(inflate);
     }
 
+    @SuppressLint("SetTextI18n")
     @Override
     public void onBindViewHolder(@NonNull FilmListAdapter.ViewHolder holder, int position) {
         holder.titleTxt.setText(items.getData().get(position).getTitle());
