@@ -3,3 +3,5 @@ https://moviesapi.ir/api/v1/movies?page=1
 
 get detail for each film:
 https://moviesapi.ir/api/v1/movies/11
+
+This the links we need
